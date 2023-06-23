@@ -8,7 +8,8 @@ $boleean = true; ///false
 $k = '7ama';
 echo $name;
 echo $num +12;
-
+///lkandne name
+echo $k. "" .$name
 
 ?>
 <!--nusen la naw html-->
