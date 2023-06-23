@@ -7,6 +7,7 @@ $num = 12;
 $boleean = true; ///false
 $k = '7ama';
 echo $name;
+echo $num +12;
 
 
 ?>
