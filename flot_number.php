@@ -13,3 +13,24 @@ function addNumbers(float $a, float $b) :int {
 echo addNumbers(1.2, 5.2); 
 ?>
 
+
+
+////////////////////outpot 7
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+function add_five(&$value) {
+  $value += 5;
+}
+
+$num = 2;
+add_five($num);
+echo $num;
+?>
+
+</body>
+</html>
+
